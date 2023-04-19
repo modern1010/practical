@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="equation" type="id" />
+    <item name="ninebtn" type="id" />
+    <item name="eightbtn" type="id" />
+    <item name="sevenbtn" type="id" />
+    <item name="sixbtn" type="id" />
+    <item name="fivebtn" type="id" />
+    <item name="fourbtn" type="id" />
+    <item name="threebtn" type="id" />
+    <item name="twobtn" type="id" />
+    <item name="onebtn" type="id" />
+    <item name="zerobtn" type="id" />
+    <item name="dotbtn" type="id" />
+    <item name="clear" type="id" />
+    <item name="div" type="id" />
+    <item name="equals" type="id" />
+    <item name="multiply" type="id" />
+    <item name="subtraction" type="id" />
+    <item name="modulo" type="id" />
+    <item name="p1" type="id" />
+    <item name="p2" type="id" />
+    <item name="addition" type="id" />
+    <item name="result" type="id" />
+</resources>

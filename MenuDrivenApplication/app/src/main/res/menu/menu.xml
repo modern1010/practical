@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/masterchief"
+        android:title="Master Chief" />
+    <item
+        android:id="@+id/kratos"
+        android:title="God Of War(Kratos)" />
+    <item
+        android:id="@+id/raiden"
+        android:title="Raiden" />
+    <item
+        android:id="@+id/frenix"
+        android:title="Frenix" />
+    <item
+        android:id="@+id/witcher"
+        android:title="The Witcher" />
+</menu>
